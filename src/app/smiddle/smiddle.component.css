@@ -1,0 +1,99 @@
+.middle-img{
+    margin-top: 20px;
+    width: 90%;
+}
+.col-lg-5{
+    padding: 10px 16px;
+    margin-top: 7rem;
+}
+.fa-check{
+    color: white;
+}
+.check{
+    width: 20px;
+    height:  20px;
+    background-color: green;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cta{
+    padding: 25px;
+    text-align: center;
+    align-items: center;
+    margin-left: 300px;
+    max-width: 60%;
+}
+.cta-heading{
+    font-size: 2.5rem;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    padding: 4% 15%;
+}
+.cta-para{
+    text-align: center;
+    font-size: 30px;
+    color: #ccc;
+  }
+  .map{
+        max-width: 80%;
+        height: auto;
+        display: block;
+        margin-left: 100px;
+      }
+  .card-container {
+    max-width: 90%;
+    margin: 0 auto;
+    background-color:#ffff;
+    align-items: center;
+    margin-top: 5rem;
+    box-shadow: 10px 10px 5px rgb(231, 225, 225);
+    padding: 10px 20px;
+    /* max-height: 150px; */
+    display: flex;
+    justify-content: space-between;
+    min-height: 176px;
+    
+  }
+  .button{
+    background-color: #f43837;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    justify-content:center;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    transition: 0.3s;
+    border-radius: 12px;
+    /* max-width: 275px; */
+    margin-right: 50px;
+    /* max-height: 50px; */
+    box-shadow: 2px 20px 30px -6px rgba(255,0,0,0.3)
+    ;
+    
+    
+}
+.Sub{
+     font-size: 26px; 
+    font-weight: 700;
+}
+section{
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  
+  }
+  .huge{
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
